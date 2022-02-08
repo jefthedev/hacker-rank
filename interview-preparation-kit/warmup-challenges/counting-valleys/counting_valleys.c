@@ -21,6 +21,7 @@ int parse_int(char*);
  */
 int counting_valleys(int steps, char* path) {
     int altitude = 0, previous_altitude = 0, valleys = 0;
+    
     for(int i = 0; i < steps; i++)
     {
         previous_altitude = altitude;
