@@ -24,7 +24,7 @@ This function has the following parameters:
 </ul>
 
 <h3>Returns</h3>
-long: the frequency of <b>a</b> in the substring.
+<li>long: the frequency of <b>a</b> in the substring.</li>
 
 <h3>Input Format</h3>
 The first line contains a single string, <b>s</b>.<br>
